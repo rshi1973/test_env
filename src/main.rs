@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, let's try to test cliff!");
+    println!("Hello, let's have a second try to test cliff!");
 }
